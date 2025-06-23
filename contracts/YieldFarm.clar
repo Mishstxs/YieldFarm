@@ -1,5 +1,5 @@
 ;; STX Yield Farm Contract
-;; A simple yield farming contract where users can stake STX tokens to earn rewards
+;; A simple yield farming contract where stx users can stake STX tokens to earn rewards
 
 ;; Constants
 (define-constant contract-owner tx-sender)
